@@ -25,3 +25,5 @@ console.log(
 console.log(
   isEnoughCapacity({ apples: 18, potatoes: 5, oranges: 2 }, 7)
 ); // false
+
+//new push
